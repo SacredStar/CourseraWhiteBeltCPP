@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\кирилл\google диск\coursera\фильтр полиндромов\фильтр полиндромов\source.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\google диск\coursera\фильтр полиндромов\фильтр полиндромов\source.cpp(35): warning C4018: >: несоответствие типов со знаком и без знака
+  Фильтр полиндромов.vcxproj -> C:\Users\Кирилл\Google Диск\coursera\Фильтр полиндромов\Debug\Фильтр полиндромов.exe
+  Фильтр полиндромов.vcxproj -> C:\Users\Кирилл\Google Диск\coursera\Фильтр полиндромов\Debug\Фильтр полиндромов.pdb (Full PDB)
